@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoGuideImitateXiaMiMusic</string>
+    <string name="tips">This is from Kevin,welcome to communicating!</string>
+    <string name="tips_2">This is a demo of Guide Activity which imitates XiaMiMusic</string>
+</resources>
